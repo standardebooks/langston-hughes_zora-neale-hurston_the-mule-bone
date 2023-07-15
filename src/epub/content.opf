@@ -41,7 +41,9 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A guitarist and a dancer compete for the same woman’s affection.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>The only collaboration between <a href="https://standardebooks.org/ebooks/langston-hughes_zora-heale-hurston">Langston Hughes and Zora Neale Hurston</a>, <i>The Mule-Bone</i> is a three-act comedy depicting the romantic rivalry between two lifelong friends, Jim Weston and Dave Carter, as they both try to woo the same woman, Daisy Taylor. Set in the town of Eatonville, Florida (Zora Neale Hurston’s hometown and the setting of her novel <i>Their Eyes Were Watching God</i>), the play humorously explores the interpersonal and religious conflicts in an early 20th-century African-American community while incorporating themes from folklore.</p>
+			<p>Hughes and Hurston’s collaboration on <i>The Mule-Bone</i> was a troubled one, since it ended in an authorship dispute between the two, and the play was never properly finished. Hughes even noted on his personal copy, “This play was never done because the authors fell out.” The play was not produced until 1991, over sixty years after it was written, when it was performed at the Ethel Barrymore Theatre to lukewarm reviews.</p>
+			<p>This Standard Ebooks edition is based on the manuscript deposited by Zora Neale Hurston with the United States Copyright Office in 1931, the only version of <i>The Mule-Bone</i> known to be out of copyright.</p>
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19435</dc:source>
