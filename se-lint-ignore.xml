@@ -9,7 +9,7 @@
 	<file path="act-3.xhtml">
 		<ignore>
 			<code>t-042</code>
-			<reason>False positive caused by a vernacular usage (“dat’a a”).</reason>
+			<reason>False positive caused by a vernacular usage (“Dat’a a”).</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
