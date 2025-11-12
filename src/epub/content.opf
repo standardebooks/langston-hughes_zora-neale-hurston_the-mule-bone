@@ -59,14 +59,14 @@
 		<meta property="se:name.person.full-name" refines="#author-1">James Mercer Langston Hughes</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-1">https://en.wikipedia.org/wiki/Langston_Hughes</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-1">http://id.loc.gov/authorities/names/n80014956</meta>
-		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-1" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-1" scheme="marc:relators">aut</meta>
 		<dc:creator id="author-2">Zora Neale Hurston</dc:creator>
 		<meta property="file-as" refines="#author-2">Hurston, Zora Neale</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-2">https://en.wikipedia.org/wiki/Zora_Neale_Hurston</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-2">http://id.loc.gov/authorities/names/n79086453</meta>
-		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author-2" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author-2" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Robert Lee MacCameron</dc:contributor>
 		<meta property="file-as" refines="#artist">MacCameron, Robert Lee</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2004016940</meta>
