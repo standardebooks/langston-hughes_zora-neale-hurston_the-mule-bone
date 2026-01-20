@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/19435</dc:source>
 		<dc:source>https://www.loc.gov/item/hurston000004</dc:source>
 		<meta property="se:production-notes">Act III is missing from the Library of Congress scans.</meta>
-		<meta property="se:word-count">19050</meta>
+		<meta property="se:word-count">18268</meta>
 		<meta property="se:reading-ease.flesch">86.6</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mule_Bone</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/langston-hughes_zora-neale-hurston_the-mule-bone</meta>
