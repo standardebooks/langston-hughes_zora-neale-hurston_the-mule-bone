@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="act-3.xhtml">
 		<ignore code="y-001">
+			<line>502</line>
 			<reason>False positive caused by a vernacular usage (“Dat’a a”).</reason>
 		</ignore>
 	</file>
